@@ -22,7 +22,7 @@ Certifique-se de ter o Node.js instalado na sua máquina.
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/currency-converter.git
+git clone https://github.com/rodsjessica/currency-converter.git
 
 Acesse o diretório do projeto:
 
